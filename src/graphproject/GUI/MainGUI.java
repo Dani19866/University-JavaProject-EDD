@@ -122,13 +122,16 @@ public class MainGUI extends javax.swing.JFrame {
     }//GEN-LAST:event_showIslandsActionPerformed
 
     private void actualGraphActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_actualGraphActionPerformed
-        app.fileAlgorithm(true);
+        app.fileReader(false, this);
+        app.verifyLines();
+        
         this.showGraphs.setEnabled(enableButtons);
         this.showIslands.setEnabled(enableButtons);
     }//GEN-LAST:event_actualGraphActionPerformed
 
     private void newGraphActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_newGraphActionPerformed
-        app.fileAlgorithm(false);
+        app.fileReader(true, this);
+        app.verifyLines();
         this.showGraphs.setEnabled(enableButtons);
         this.showIslands.setEnabled(enableButtons);
     }//GEN-LAST:event_newGraphActionPerformed
