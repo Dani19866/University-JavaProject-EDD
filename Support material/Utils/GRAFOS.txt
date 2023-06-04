@@ -1,0 +1,29 @@
+GRAFOS
+
+-Un grafo es una estructura para representar relaciones entre objetos. Es un conjunto de nodos (vértices) conectados por enlaces (arcos)
+
+Propiedades:
+	-Vértices
+	-Arcos
+
+Grafo dirigido: Conexión unidireccional
+Grafo no dirigido: Conexión bidireccional
+Grafos valorados: La conexión (Arco) tiene un peso
+
+Los grafos se pueden representar en matrices:
+
+				  a b c d e
+				a 0 1 0 0 0
+				b 0 0 0 0 0	
+				c 1 0 0 1 0
+				d 1 1 0 0 0
+				e 0 1 0 1 1
+
+
+
+
+
+
+
+
+
