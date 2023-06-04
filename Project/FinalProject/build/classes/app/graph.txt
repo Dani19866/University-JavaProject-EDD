@@ -1,0 +1,43 @@
+Usuarios
+121, @pepe_gónzales
+254, @stephaniacominos
+365, @andreastanislao
+412, @josefina_la_sifrina
+512, @rosamosa
+231, @eduardopetardo
+123, @enriquemanrique
+129, @casanova23
+870, @venepositivo
+758, @yosoylatorre
+578, @pitiypo
+909, @obiwan123
+893, @caribu_sol
+467, @trapos232
+788, @bandido121
+239, @justiciero11
+443, @fuerza_bruta
+907, @presentesiempre
+Relaciones
+121, 254, 7
+121, 909, 8
+254, 909, 5
+254, 893, 1
+512, 412, 2
+231, 870, 5
+231, 123, 1
+123, 870, 15
+123, 467, 6
+129, 512, 10
+870, 578, 7
+870, 758, 1
+758, 365, 9
+578, 365, 4
+909, 893, 5
+893, 129, 3
+893, 412, 4
+788, 239, 7
+788, 443, 11
+788, 412, 7
+239, 443, 6
+239, 907, 3
+443, 907, 9
