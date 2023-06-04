@@ -1,0 +1,10 @@
+edge {
+    size: 2px;
+    fill-color: red, yellow, green, #444;
+    fill-mode: dyn-plain;
+}
+
+node {
+    size: 6px;
+    fill-color: #444;
+}
